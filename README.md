@@ -2,12 +2,12 @@
 
 [Research portfolio](https://github.com/ecedegirmen/research-portfolio) · [Source inventory](SOURCE-INVENTORY.md)
 
-Course materials organized by course, with assignments, lecture exercises, project plans, and resource indexes. This repository is private so it can include coursework that was already private.
+A public collection of my UNC technical training, organized by course: programming assignments, software-tool exercises, project plans, and resource indexes.
 
 | Course | Contents |
 | --- | --- |
 | [COMP 110](COMP110/README.md) | Spring 2024 course site and Python workspace resources |
-| [COMP 210](COMP210/README.md) | Java coursework copied from my private course workspace |
+| [COMP 210](COMP210/README.md) | Java programming coursework |
 | [COMP 290](COMP290/README.md) | Assignments, lecture activities, TypeScript practice, and personal-finance app planning |
 | [General CS resources](resources/README.md) | References spanning multiple courses |
 
