@@ -1,0 +1,6 @@
+const identity = <T>(param: T): T => param
+
+const mapArray = <ArrayElement, ExpectedType>(
+	arr: ArrayElement[], 
+	fn: (param: ArrayElement
+) => ExpectedType) => arr.map(fn);

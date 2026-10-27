@@ -1,0 +1,4 @@
+
+type ApiRequest<Data, Method = "GET"> = { data: Data; method: Method };
+
+type TSConfig<Config = { strict: true }> = Config;

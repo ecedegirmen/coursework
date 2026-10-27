@@ -1,0 +1,5 @@
+type MovieInfoByGenre<T> = Record<keyof T, {
+	name:string,
+	year:number,
+	director:string
+}>

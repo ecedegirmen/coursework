@@ -1,0 +1,8 @@
+pipelines:
+  - name: Markdown
+    sources:
+      - '**/*.md'  # Check all Markdown files
+    aspell:
+      lang: en
+      filters:
+        - markdown

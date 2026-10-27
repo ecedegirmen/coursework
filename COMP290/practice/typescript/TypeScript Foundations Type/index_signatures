@@ -1,0 +1,9 @@
+type IndexT<T extends string | number | symbol, U> = {
+	[key in T]: U;
+};
+
+type GroceryList = IndexT<string, number>;
+
+type InappropriateActionBySituation = IndexT<string, string[]>;
+
+type CharactersById = IndexT<number, IndexT<string, number | string>>;
